@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\admin\Desktop\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\Thread\Desktop\очень сложно\Интеллектуальные системы лабы\Maze\Maze\obj\Debug\Maze.pdb
